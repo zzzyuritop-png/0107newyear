@@ -1,0 +1,7 @@
+{
+  "name": "Luminescent New Year Particles",
+  "description": "A 3D interactive particle experience featuring a luminescent tree, snow, and rings. Control the speed and rotation using hand gestures (Freeze, Fast, Rotate) via your webcam.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

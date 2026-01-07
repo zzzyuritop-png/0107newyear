@@ -1,0 +1,1 @@
+export type InteractionMode = 'normal' | 'frozen' | 'fast' | 'rotateLeft' | 'rotateRight';
